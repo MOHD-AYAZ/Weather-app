@@ -59,7 +59,7 @@ To run this app locally, follow these steps:
 You may need to sign up for a free OpenWeatherMap API key and replace the existing API key in the JavaScript file with your own to fetch weather data.
 
 ```javascript
-const api_Key =  "0b1537a1ae0806fb8d1f6565038e009f";
+const api_Key =  "0b1537a1ae0806fb8d1f6565038e009f";```
 
 ## Contributing
 
